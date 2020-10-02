@@ -629,6 +629,7 @@ a {
 }
 
 .command__item {
+  text-align: center;
   width: 270px;
   height: 428px;
   text-align: center;
