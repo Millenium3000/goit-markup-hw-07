@@ -612,6 +612,8 @@ a {
 }
 
 .command__item {
+  height: 428px;
+  width: 270px;
   text-align: center;
   padding-bottom: 30px;
   background-color: #ffffff;
